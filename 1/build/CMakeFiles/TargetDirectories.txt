@@ -1,0 +1,3 @@
+/home/vlad/cpp/Modern C++ practice/1/build/CMakeFiles/app.dir
+/home/vlad/cpp/Modern C++ practice/1/build/CMakeFiles/edit_cache.dir
+/home/vlad/cpp/Modern C++ practice/1/build/CMakeFiles/rebuild_cache.dir

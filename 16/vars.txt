@@ -1,0 +1,3 @@
+vlad 
+/home/vlad 
+vlad-pc
